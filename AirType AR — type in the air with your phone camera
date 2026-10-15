@@ -1,730 +1,0 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://airtype-ar-app.netlify.app/
-Subject: =?utf-8?Q?AirType=20AR=20=E2=80=94=20type=20in=20the=20air=20with=20your?=
- =?utf-8?Q?=20phone=20camera?=
-Date: Thu, 15 Oct 2026 16:30:35 GMT
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f----"
-
-
-------MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f----
-Content-Type: text/html
-Content-ID: <frame-E66763264E8CF7F4AC7451F2572FC3DC@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://airtype-ar-app.netlify.app/
-
-<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-<!-- This site is hosted on Netlify. Anyone can build and deploy a site
-     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=0794c1fe-9bbc-47e2-99f6-b19243607d6b
-     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->
-<meta property="og:image" content="https://airtype-ar-app.netlify.app/.netlify/og-image/b1aa16a079688e19407ba89b6ef1543d.jpg">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
-    <title>AirType AR â€” type in the air with your phone camera</title>
-    <meta name="description" content="AirType AR turns your phone camera into an air keyboard: on-device hand tracking, pinch-to-type, and a built-in text editor. Nothing leaves your device.">
-    <meta name="theme-color" content="#05090f">
-    <meta name="color-scheme" content="dark">
-    <link rel="manifest" href="https://airtype-ar-app.netlify.app/manifest.json">
-    <link rel="icon" href="https://airtype-ar-app.netlify.app/icons/icon-192.png" type="image/png">
-    <link rel="apple-touch-icon" href="https://airtype-ar-app.netlify.app/icons/apple-touch-icon.png">
-    <link rel="stylesheet" href="https://airtype-ar-app.netlify.app/styles.css">
-    <link rel="modulepreload" href="https://airtype-ar-app.netlify.app/js/app.js">
-  </head>
-  <body>
-    <svg width="0" height="0" style="position:absolute" aria-hidden="true">
-      <symbol id="i-cam" viewBox="0 0 24 24"><path d="M4 7h3l2-2h6l2 2h3v12H4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"></path><circle cx="12" cy="13" r="3.5" fill="none" stroke="currentColor" stroke-width="1.8"></circle></symbol>
-      <symbol id="i-cam-off" viewBox="0 0 24 24"><path d="M4 7h3l2-2h6l2 2h3v12H4z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"></path><path d="M3 3l18 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></symbol>
-      <symbol id="i-switch" viewBox="0 0 24 24"><path d="M4 9a8 8 0 0 1 14-3l2 2M20 15a8 8 0 0 1-14 3l-2-2M20 4v4h-4M4 20v-4h4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></symbol>
-      <symbol id="i-play" viewBox="0 0 24 24"><path d="M8 5l11 7-11 7z" fill="currentColor"></path></symbol>
-      <symbol id="i-pause" viewBox="0 0 24 24"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z" fill="currentColor"></path></symbol>
-      <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7.5" fill="none" stroke="currentColor" stroke-width="1.8"></circle><circle cx="12" cy="12" r="2.5" fill="currentColor"></circle><path d="M12 1.5v4M12 18.5v4M1.5 12h4M18.5 12h4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></symbol>
-      <symbol id="i-kb" viewBox="0 0 24 24"><rect x="2.5" y="6" width="19" height="12" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"></rect><path d="M6 10h1M9.5 10h1M13 10h1M16.5 10h1M6 13.5h1M17 13.5h1M9 14.5h6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></symbol>
-      <symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="1.8"></circle><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></symbol>
-      <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"></rect><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3" fill="none" stroke="currentColor" stroke-width="1.8"></path></symbol>
-      <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4 7h16M9 7V4h6v3M6.5 7l1 13h9l1-13" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"></path></symbol>
-      <symbol id="i-undo" viewBox="0 0 24 24"><path d="M9 14L4 9l5-5M4 9h10a6 6 0 0 1 0 12h-3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></symbol>
-      <symbol id="i-redo" viewBox="0 0 24 24"><path d="M15 14l5-5-5-5M20 9H10a6 6 0 0 0 0 12h3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></symbol>
-      <symbol id="i-sys" viewBox="0 0 24 24"><rect x="6" y="2.5" width="12" height="19" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"></rect><path d="M9 15h6M9 12h6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path></symbol>
-      <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path></symbol>
-      <symbol id="i-hand" viewBox="0 0 24 24"><path d="M8 12V5.5a1.5 1.5 0 0 1 3 0V11M11 10V4a1.5 1.5 0 0 1 3 0v6M14 10V5.5a1.5 1.5 0 0 1 3 0V14a7 7 0 0 1-7 7h-.5a6 6 0 0 1-5-2.7L3 15.5a1.6 1.6 0 0 1 2.6-1.8L8 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></symbol>
-    </svg>
-
-    <div class="app" id="app">
-      <header class="topbar">
-        <div class="brand">
-          <img src="https://airtype-ar-app.netlify.app/icons/icon-192.png" alt="" width="28" height="28">
-          <span>AirType <b>AR</b></span>
-        </div>
-        <div class="status" id="status" role="status" aria-live="polite" data-tone="idle">
-          <span class="status__dot"></span><span class="status__text">Camera off</span>
-        </div>
-        <button class="icon-btn" id="settingsBtn" type="button" aria-label="Settings">
-          <svg><use href="#i-gear"></use></svg>
-        </button>
-      </header>
-
-      <main class="workspace">
-        <div class="stage" id="stage" style="--kb-x: 22.07667857173043%; --kb-y: 11.33150001616495%; --kb-w: 40%; --kb-h: 20%; --kb-o: 0.55; --kb-gap: 7px;">
-          <video id="video" playsinline="" muted="" autoplay="" disablepictureinpicture="" aria-label="Live camera view"></video>
-          <div class="stage__grid" aria-hidden="true"></div>
-          <canvas id="overlay" class="stage__overlay" aria-hidden="true" width="160" height="0" style="width: 80px; height: 0px;"></canvas>
-          <div id="keyboard" class="keyboard" role="group" aria-label="Virtual keyboard" data-layer="letters"><div class="kb-row"><button type="button" class="key key--char" data-key="letters:0:0" tabindex="-1" aria-label="q" style="flex-grow: 1; flex-basis: 0px;">q</button><button type="button" class="key key--char" data-key="letters:0:1" tabindex="-1" aria-label="w" style="flex-grow: 1; flex-basis: 0px;">w</button><button type="button" class="key key--char" data-key="letters:0:2" tabindex="-1" aria-label="e" style="flex-grow: 1; flex-basis: 0px;">e</button><button type="button" class="key key--char" data-key="letters:0:3" tabindex="-1" aria-label="r" style="flex-grow: 1; flex-basis: 0px;">r</button><button type="button" class="key key--char" data-key="letters:0:4" tabindex="-1" aria-label="t" style="flex-grow: 1; flex-basis: 0px;">t</button><button type="button" class="key key--char" data-key="letters:0:5" tabindex="-1" aria-label="y" style="flex-grow: 1; flex-basis: 0px;">y</button><button type="button" class="key key--char" data-key="letters:0:6" tabindex="-1" aria-label="u" style="flex-grow: 1; flex-basis: 0px;">u</button><button type="button" class="key key--char" data-key="letters:0:7" tabindex="-1" aria-label="i" style="flex-grow: 1; flex-basis: 0px;">i</button><button type="button" class="key key--char" data-key="letters:0:8" tabindex="-1" aria-label="o" style="flex-grow: 1; flex-basis: 0px;">o</button><button type="button" class="key key--char" data-key="letters:0:9" tabindex="-1" aria-label="p" style="flex-grow: 1; flex-basis: 0px;">p</button></div><div class="kb-row"><button type="button" class="key key--char" data-key="letters:1:0" tabindex="-1" aria-label="a" style="flex-grow: 1; flex-basis: 0px;">a</button><button type="button" class="key key--char" data-key="letters:1:1" tabindex="-1" aria-label="s" style="flex-grow: 1; flex-basis: 0px;">s</button><button type="button" class="key key--char" data-key="letters:1:2" tabindex="-1" aria-label="d" style="flex-grow: 1; flex-basis: 0px;">d</button><button type="button" class="key key--char" data-key="letters:1:3" tabindex="-1" aria-label="f" style="flex-grow: 1; flex-basis: 0px;">f</button><button type="button" class="key key--char" data-key="letters:1:4" tabindex="-1" aria-label="g" style="flex-grow: 1; flex-basis: 0px;">g</button><button type="button" class="key key--char" data-key="letters:1:5" tabindex="-1" aria-label="h" style="flex-grow: 1; flex-basis: 0px;">h</button><button type="button" class="key key--char" data-key="letters:1:6" tabindex="-1" aria-label="j" style="flex-grow: 1; flex-basis: 0px;">j</button><button type="button" class="key key--char" data-key="letters:1:7" tabindex="-1" aria-label="k" style="flex-grow: 1; flex-basis: 0px;">k</button><button type="button" class="key key--char" data-key="letters:1:8" tabindex="-1" aria-label="l" style="flex-grow: 1; flex-basis: 0px;">l</button></div><div class="kb-row"><button type="button" class="key key--shift" data-key="letters:2:0" tabindex="-1" aria-label="Shift" style="flex-grow: 1.5; flex-basis: 0px;">â‡§</button><button type="button" class="key key--char" data-key="letters:2:1" tabindex="-1" aria-label="z" style="flex-grow: 1; flex-basis: 0px;">z</button><button type="button" class="key key--char" data-key="letters:2:2" tabindex="-1" aria-label="x" style="flex-grow: 1; flex-basis: 0px;">x</button><button type="button" class="key key--char" data-key="letters:2:3" tabindex="-1" aria-label="c" style="flex-grow: 1; flex-basis: 0px;">c</button><button type="button" class="key key--char" data-key="letters:2:4" tabindex="-1" aria-label="v" style="flex-grow: 1; flex-basis: 0px;">v</button><button type="button" class="key key--char" data-key="letters:2:5" tabindex="-1" aria-label="b" style="flex-grow: 1; flex-basis: 0px;">b</button><button type="button" class="key key--char" data-key="letters:2:6" tabindex="-1" aria-label="n" style="flex-grow: 1; flex-basis: 0px;">n</button><button type="button" class="key key--char" data-key="letters:2:7" tabindex="-1" aria-label="m" style="flex-grow: 1; flex-basis: 0px;">m</button><button type="button" class="key key--backspace" data-key="letters:2:8" tabindex="-1" aria-label="Backspace" style="flex-grow: 1.5; flex-basis: 0px;">âŒ«</button></div><div class="kb-row"><button type="button" class="key key--layer" data-key="letters:3:0" tabindex="-1" aria-label="Numbers and symbols" style="flex-grow: 1.5; flex-basis: 0px;">?123</button><button type="button" class="key key--caps" data-key="letters:3:1" tabindex="-1" aria-label="Caps Lock" style="flex-grow: 1.2; flex-basis: 0px;">â‡ª</button><button type="button" class="key key--char" data-key="letters:3:2" tabindex="-1" aria-label="," style="flex-grow: 1; flex-basis: 0px;">,</button><button type="button" class="key key--space" data-key="letters:3:3" tabindex="-1" aria-label="Space" style="flex-grow: 4; flex-basis: 0px;"></button><button type="button" class="key key--char" data-key="letters:3:4" tabindex="-1" aria-label="." style="flex-grow: 1; flex-basis: 0px;">.</button><button type="button" class="key key--enter" data-key="letters:3:5" tabindex="-1" aria-label="Enter" style="flex-grow: 1.8; flex-basis: 0px;">â</button></div></div>
-
-          <div class="badges">
-            <span class="badge" id="modeBadge" data-tone="">Air mode</span>
-            
-          </div>
-
-          <section class="camera-prompt" id="cameraPrompt" aria-labelledby="promptTitle">
-            <div class="camera-prompt__card">
-              <svg class="camera-prompt__icon" aria-hidden="true"><use href="#i-hand"></use></svg>
-              <h1 id="promptTitle">Type in the air</h1>
-              <p>AirType AR uses your <strong>rear camera</strong> to track your hand on this device. Aim with your index fingertip, then <strong>pinch</strong> thumb and index together to type the highlighted key.</p>
-              <button class="btn btn--primary" id="promptStartBtn" type="button">
-                <svg><use href="#i-cam"></use></svg> Start camera
-              </button>
-              <button class="btn btn--ghost" id="promptTouchBtn" type="button">Use touch keyboard instead</button>
-              
-              <p class="fine">Video is processed locally and never uploaded or recorded. Camera access requires HTTPS (or localhost).</p>
-            </div>
-          </section>
-
-          
-
-          
-          <div class="toast" id="toast" role="status" aria-live="polite"></div>
-        </div>
-
-        <nav class="controls" aria-label="Camera and typing controls">
-          <button class="ctl" id="camBtn" type="button" aria-pressed="false">
-            <svg><use href="#i-cam"></use></svg><span>Camera</span>
-          </button>
-          <button class="ctl" id="switchBtn" type="button" disabled="">
-            <svg><use href="#i-switch"></use></svg><span>Switch</span>
-          </button>
-          <button class="ctl ctl--accent" id="typeBtn" type="button" aria-pressed="false" disabled="">
-            <svg><use href="#i-play"></use></svg><span>Start typing</span>
-          </button>
-          <button class="ctl" id="calibBtn" type="button" disabled="" aria-pressed="false">
-            <svg><use href="#i-target"></use></svg><span>Calibrate</span>
-          </button>
-          <button class="ctl" id="kbBtn" type="button" aria-pressed="true">
-            <svg><use href="#i-kb"></use></svg><span>Keyboard</span>
-          </button>
-          <div class="segmented" role="radiogroup" aria-label="Input mode">
-            <button type="button" role="radio" id="modeAir" aria-checked="true">Air</button>
-            <button type="button" role="radio" id="modeTouch" aria-checked="false">Touch</button>
-          </div>
-        </nav>
-      </main>
-
-      <section class="editor" aria-label="Text editor">
-        <div class="editor__bar">
-          <span class="counter" id="counter">0 chars Â· 0 words</span>
-          <div class="editor__tools">
-            <button class="icon-btn icon-btn--sm" id="undoBtn" type="button" aria-label="Undo" disabled=""><svg><use href="#i-undo"></use></svg></button>
-            <button class="icon-btn icon-btn--sm" id="redoBtn" type="button" aria-label="Redo" disabled=""><svg><use href="#i-redo"></use></svg></button>
-            <button class="icon-btn icon-btn--sm" id="sysKbBtn" type="button" aria-label="Use system keyboard" aria-pressed="false"><svg><use href="#i-sys"></use></svg></button>
-            <button class="icon-btn icon-btn--sm" id="copyBtn" type="button" aria-label="Copy text"><svg><use href="#i-copy"></use></svg></button>
-            <button class="icon-btn icon-btn--sm icon-btn--danger" id="clearBtn" type="button" aria-label="Clear all text"><svg><use href="#i-trash"></use></svg></button>
-          </div>
-        </div>
-        <textarea id="editor" inputmode="none" spellcheck="false" autocapitalize="off" autocomplete="off" aria-label="Typed text" placeholder="Your text appears here. Tap to place the cursor."></textarea>
-        <div class="editor__foot"><span id="sourceStats">Air 0 Â· Touch 0</span><span id="lastKey" aria-live="polite"></span></div>
-      </section>
-    </div>
-
-    <!-- Settings -->
-    <dialog class="sheet" id="settingsDialog" aria-labelledby="settingsTitle">
-      <form method="dialog" class="sheet__inner" id="settingsForm">
-        <header class="sheet__head">
-          <h2 id="settingsTitle">Settings</h2>
-          <button class="icon-btn icon-btn--sm" value="close" aria-label="Close settings"><svg><use href="#i-close"></use></svg></button>
-        </header>
-
-        <fieldset>
-          <legend>Gesture</legend>
-          <label class="field">
-            <span>Selection gesture</span>
-            <select name="gestureMode">
-              <option value="pinch">Pinch (aim + thumb-to-index pinch)</option>
-              <option value="dwell">Dwell (hold fingertip still on key)</option>
-            </select>
-          </label>
-          <label class="field"><span>Pinch sensitivity <output data-for="sensitivity">5 / 10</output></span><input type="range" name="sensitivity" min="1" max="10" step="1"></label>
-          <label class="field"><span>Cooldown between keys <output data-for="cooldownMs">250 ms</output></span><input type="range" name="cooldownMs" min="0" max="1200" step="50"></label>
-          
-          <label class="field">
-            <span>Typing hand</span>
-            <select name="hand">
-              <option value="any">Either hand</option>
-              <option value="right">Right hand</option>
-              <option value="left">Left hand</option>
-            </select>
-          </label>
-          <p class="hint" id="calibInfo">Personal pinch calibration active (open â‰ˆ 0.80, pinched â‰ˆ 0.24 palm-widths).</p>
-          <button class="btn btn--small btn--ghost" type="button" id="resetCalibBtn">Reset pinch calibration</button>
-        </fieldset>
-
-        <fieldset>
-          <legend>Keyboard</legend>
-          <label class="field"><span>Transparency <output data-for="opacity">55%</output></span><input type="range" name="opacity" min="0.15" max="1" step="0.05"></label>
-          <label class="field"><span>Width <output data-for="kbWidth">40%</output></span><input type="range" name="kbWidth" min="0.4" max="1" step="0.01"></label>
-          <label class="field"><span>Height <output data-for="kbHeight">20%</output></span><input type="range" name="kbHeight" min="0.2" max="0.9" step="0.01"></label>
-          <label class="field"><span>Horizontal position <output data-for="kbX">22%</output></span><input type="range" name="kbX" min="0" max="1" step="0.01"></label>
-          <label class="field"><span>Vertical position <output data-for="kbY">11%</output></span><input type="range" name="kbY" min="0" max="1" step="0.01"></label>
-          <label class="field"><span>Key spacing <output data-for="keyGap">7 px</output></span><input type="range" name="keyGap" min="0" max="14" step="1"></label>
-          <button class="btn btn--small btn--ghost" type="button" id="resetLayoutBtn">Reset keyboard layout</button>
-        </fieldset>
-
-        <fieldset>
-          <legend>Feedback &amp; display</legend>
-          <label class="switch"><input type="checkbox" name="sound"><span>Sound on key entry</span></label>
-          <label class="switch"><input type="checkbox" name="vibration"><span>Vibration <small id="vibeNote"></small></span></label>
-          <label class="switch"><input type="checkbox" name="showLandmarks"><span>Show hand landmarks</span></label>
-          <label class="switch"><input type="checkbox" name="showDebug"><span>Show measured performance (debug)</span></label>
-          <label class="switch"><input type="checkbox" name="lowPower"><span>Low-performance mode (15 fps, 640Ã—480, one hand)</span></label>
-        </fieldset>
-
-        <fieldset>
-          <legend>Camera</legend>
-          <label class="field">
-            <span>Camera</span>
-            <select name="cameraId" id="cameraSelect"><option value="">Automatic (rear camera)</option></select>
-          </label>
-          <p class="hint">Camera names appear after camera permission is granted.</p>
-        </fieldset>
-
-        <fieldset>
-          <legend>Help &amp; privacy</legend>
-          <p class="hint">Hand tracking runs entirely in this browser. Camera frames and your text are never uploaded, saved, or analysed elsewhere. Only these settings are stored on this device.</p>
-          <div class="row-btns">
-            <button class="btn btn--small btn--ghost" type="button" id="tutorialBtn">Show tutorial</button>
-            <button class="btn btn--small btn--ghost" type="button" id="resetAllBtn">Reset all settings</button>
-          </div>
-          <p class="hint" id="versionInfo"></p>
-        </fieldset>
-      </form>
-    </dialog>
-
-    <!-- Onboarding -->
-    <dialog class="sheet sheet--center" id="onboarding" aria-labelledby="obTitle">
-      <div class="sheet__inner onboarding">
-        <div class="onboarding__dots" id="obDots" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
-        <div id="obSlides">
-          <article class="slide" data-art="cam">
-            <h2 id="obTitle">Welcome to AirType AR</h2>
-            <p>Your phoneâ€™s camera watches your hand and a translucent keyboard floats over the live view. When you tap <b>Start camera</b>, your browser asks for camera permission â€” choose <b>Allow</b>.</p>
-            <p class="fine">Frames are analysed on this device only. Nothing is uploaded or recorded.</p>
-          </article>
-          
-          
-          
-          
-          
-        </div>
-        <div class="onboarding__actions">
-          <button class="btn btn--ghost btn--small" type="button" id="obSkip">Skip</button>
-          <button class="btn btn--primary btn--small" type="button" id="obNext">Next</button>
-        </div>
-      </div>
-    </dialog>
-
-    <!-- Confirm -->
-    <dialog class="sheet sheet--center" id="confirmDialog" aria-labelledby="confirmTitle">
-      <form method="dialog" class="sheet__inner confirm">
-        <h2 id="confirmTitle">Clear all text?</h2>
-        <p>This removes everything in the editor. You can still undo it afterwards.</p>
-        <div class="row-btns">
-          <button class="btn btn--ghost btn--small" value="cancel">Cancel</button>
-          <button class="btn btn--danger btn--small" value="ok">Clear</button>
-        </div>
-      </form>
-    </dialog>
-
-    
-    
-  
-
-
-
-<iframe id="nl-badge-frame" title="Powered by Netlify" src="cid:frame-DF81DAD7C9C8529B37449CACF416BEEE@mhtml.blink" style="position: fixed; bottom: 0px; right: 0px; border: 0px; margin: 0px; padding: 0px; background: transparent; color-scheme: dark; z-index: 2147483645; width: 0px; height: 0px; clip-path: path(&quot;M 0 0 H -13 V -13 H 0 Z&quot;);" data-nl-ready="1"></iframe></body></html>
-------MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f----
-Content-Type: image/png
-Content-Transfer-Encoding: binary
-Content-Location: https://airtype-ar-app.netlify.app/icons/icon-192.png
-
-‰PNG
-
-   IHDR   À   À   RÜl  LIDATxÚíËw×‡µIœÄkl„$#Áãÿ%ãU6± “ógfuÎÉ6{åŒÄhzºï£¿ª[wÔ:§9ñĞù¾ªºŞÙéäï÷{G×±Ÿ‹ã|ÜÆ7¢øÃ½'İ„ô7îSé~æ¾ƒÁ÷´3ÿQá>¼(G~;ğ{‚+ƒB„á÷Uùno,ô·v_,Cş‘	ø¶@"’T"¬X¸1ĞcàÇ‚ï¸6ZÈ )ÁVÊ0¾¸Hğ›Ã~ÆRD• {RD†ŸÓò¸o:TŒ–"ÔZ"İ‰»ü˜¬ƒş~À ÉàSø„áÖîÁ…üŞàC =e„…-DÀK°äl†ß~m¦?ume˜%è~CğCÂC„›"Áøñà·îƒF2˜‰à/Anİ9¸¨	 ƒ_×òØ€/€Ú*Ğ2D€·D*	>3xÇQ‚~áç€†ı© ĞRàD¸±D„ŸõµàC!Š•*‚¶l™màf}øÍá$t\U‚KøUD…¿gèQ2ô%E ¸6ğ‰à÷ÿiÇI„œG&Ìğsá7ÿŸ‰Ã_„Y‚Bë#„ÏşFàk@÷%‚ƒ{J	´­[ß¯†¿–õ©íNlè±2(Ú"b5ÀJĞ`<àÿ±/ü
-ğ#@“AXÔ»J`’ı=f|àğÁ=F†š†˜Í)ª@„ÖG?.ëëAü^"ª™«@7ğf}7Ø~RøTƒ-À¼õ	?ú…A€d¸y0PgÓ;øÕĞ/„R†àf†Œª@Üì/…™õ@O–Á ˜KĞ¸
-È³¿ü÷°ğ‹ÀgÃùÀÕ 40¶”@\°Ùà—€ÿÜ!lDèJ‹*:ûƒàÇƒÿ<@xŠ ‘ ^Àfÿ­ßü¯ÑP„¾$ T³ïÖÁo;TŠm– 7 V
- o}bÀ?í@HeĞ‹ĞV«Vh$ ®÷wn}\àçBÿÂ!¸2´À±Òl³¯ğsÀÑ0”"ô"eˆ“ıáçfı0ĞdWƒv´¨Ebd~ß/‡ßü/¾ş.*	ˆã`U@ğ;şºìoİú@á´:KÀµa×yIà4 TÁ\,²tø}Ç
-ÑŸú*À|MÙ¿	üq ×ËĞZ‚˜U€ùòº³?~fÖo	¾L„R5àK°U€!€nÕW5ğ?Ú—‰ğ!°* ´?àìß=ü/±M8T âö'Tö/-rÉú}ôA>.à-–Å­õ6h§İà·Eö·„_	¼HˆD¨¸Áğuûc•ıãÀo=Y†ÈV´ ~íUöçÂÿ—õÀŞıÛo£øg!6ÿ[ºšjğ"Aû*Àoƒvâ~ãdø4Ø©Q‘RâVËÁ°^ éà·yöWÂ_
-ñÎØ‘“¡.B;	ôU 8†	`Şş€²¿)üå¬ŸŸúT†ßTÕ #Aë* oƒ&„i¬²?aĞ+Ÿş"$"$àŠª@ƒ6hÇ·ıÑ~Ûd:ü4è_¢.ƒ­UÀx0¬ Iûã›ıeğSÁšö€ª@ 6È_€`Ùßş4Ì/şõßjD0— upÀgñË¢ıqÈşø+àS çÉ0&A„*`Ô	Ç;mû@ûCÊşmà×€_ÁQaÓu!€söÇÂOÿ;BˆD0“ A#@èş?% (ûƒá_ı§Çß“£$ƒ^p0kƒìÇ;íúãöÇ û—àG/!-ohÜ	Æ10Ëşˆ­~øTrH[!ñŒP„6ÈM€»½ ËşQà‡K ­Ñ¸Y tÿm0­ş×„àI€n…|Ú çq [ Ó0­ÿ÷›ıÑgÿ:üØù"p$T×Ù ê8Àv ¬À~ ìÚş”²¿
-şìÔ¨ˆ ‘@?#dĞ™„at4 †´?gdLàJPàÌ¶
-t1®
-ĞÁgûCÈşEøQ‘ VüÛ ~f‚vºœB lòÙ¿ÿ÷ÿ¹ÈW~ µAİ
-p7¢ ° tÿOm^1ÈÃ_Ÿ$BB‚² ¯lÚ Á8 êLPX|À€ÙŸVEh-@Z‚Y€p`jÿÏËş?øPœÇê™ ­à4– Ğş]‚ ã€Èkşœl Óşß#ûkª@}Ğ› '³ >œĞÁŸ•@-ÀÙ,À,ÀËY€Ê8```àF
- Øy5ZàĞI€C °©ĞÈ‹asW0ƒà¹Ì-P@6%h'ÀøúY€Y õ,ĞºÒ [Ã0}°šHşÒóP€× ^Ã˜À?0¯kÂ	1U ›ıíO÷Ì{Ú<sp­Æÿ-"ûÃ7ÃÍ{nÆnP~D—€ô-ºşŞ:?0 6U×:øEÙ?ÕÿÏÏÌO„Œè¼æƒ_?Lÿ#»ÏSÚ ½òg‚iğµ?ÛÿLğü«é6(-Áw	€¿
-‘:^éğögûbş] m€H@„_œıçßšStèNÿÙüËpóoƒ¾`¾üšŞ
-•^~¡ùmĞÒK4Ä­ÏüÛ ó¯C£«@iL yA½çÇdÿù×¡ç÷˜J 5üóûæ7Äpß#‘ -å]ÂZøoäbæw„Ñf„¤hE ¾H;ûîâùaåw„Ío‰äU©¸o‘çÁ?¿%r~O°‰gLpµqæ ÿüàùMñD	$Õ@ÿäØVğß„7Å÷;àTa+Ä”ÀV„ÌñHğ#Zzöï¡ÿ_rï/€Ed]*Ø‹@	¿UöoĞş¨0´¯r	h"ğÇ	gYèIà›Àï™ı}ú½ …q€Åle@JPA©ãàá7ÎşĞÙ]ÿ¿!@¼6(R Hğ2è™ôgùs À'û·mè@Û õ`x÷Çót¼]ÅûËŞÈåÿŞ{û!?]ÅX‚½Ÿ>^Å»UüšŒ!$ûï~MÄ§«øyc÷ş)†@Ó?3>Öà\Vç–8ïáuå®ıúŞ|¾WcøW÷¶tÿSß×U|şN3ßyiğkÕş`¶A»oò7c,K€„×ğ$V‚´ 	ŞM%Ø ò2¤…›‚ÿ){ÎÃÌO-ş¼ eø/ãÍ¹{ûCÀ¦ÒÀ­y>&XI`*B^€OY)ÒÔ?},øCV×–…_)@®bÛ o²ø-Š=¹€([€·c>«À°Ş«
-°–`ÕwÓ˜¶N¬Ï­E„?u]”ì?¹‡o%Ğà¿à‰Ëâ×w° t	´P$˜d/‚)Pö	1…,À°Ú\ëWüeòğo@„- =û›
-€oƒvßüB–`8#4¼Ñ5	V3Ckêä@¡´ë¶éS:8äşÉ±êğç¯«ÿµ ¿%Ã¿)À)ş%ŞíOR ¯Áp;>ÇåV*@fÀü.É'•ã]y`[ 7¸__×Gü­°ü‚W+h×Æ7»$Áj±f*@^‚á:Anº'@~ì0€ÚnåµWà9şK–H}Ãy*üt¨Ù. ¡bT– ƒÅ±ÔÏI°Z ÎÕ$.–í€ÚS@Ys P;×á"şuyF†ÿJ€õ¢—T qög´?Ÿ8¸À·AÇêèx6™-I0\1Ş#€µ×X ê9Wx©ğ'ï!J€ü4¡í@ ÿ*Ú"A‘`¼<O‘ µm¢´jœê¯©0§¶'P?W§ŒgyRÛ8ğ§$ À¿Š¨Ù¿(€ç”(y§¨x³\mÓ\bßĞÆŞ¡úF:Ùş"ZH;9÷aOe“›l³oÇ§gö mƒÛ#ˆå¼%Xè%¨	‚ş7ëà{Â
-€Ÿ“ı9”°ª”¢Ü2êJqJ‚êàx46 ’Sp¾ü÷ÿª‘úg›ïõ3Óœ#ø9+½œ/Õ–gƒì%À• qª@um€°JL•€<C4#§+c.ü)	j=şÆî‚ÿæL~ñjoe¿O‹ìOÀ¿
-·IŒÉ8³C“)Ò¬’¤7Õ•w˜J¨AŸÛÂ\ÿ§ñzÉ3Ö\ÿp¾Ÿ
-?¿mö_`^m,’å¾$òiQ‚¸J2|	ğ±}^ÒUø¥SÃÊ÷$Şğf˜ı—Ü+Ğ¯«÷	Ö†ĞP$(}é9hVåt{‘—aÕ—óHµZ«Ç^p)à×îEé~^Wßû§døyû}ô«¾<4ìc[!ö*ñıÓÉSdÔu‚Ú3©cnŒP„R" E¶Òöeü¹{QƒÿR€ûºÕ^uë³¯ƒŸ%€e+¤^%^}		ª$DHÃEÍÊL*çXÛ6>ºø'÷¶ÚkÙúÔ€¶B`Ş J°² Ùlø³G8jmí–± µ{6í¡­ô	°§ÏşŸxt­
-l
-P– ù%$X-˜‘(n¯¦åĞGÙ¾œ 4“–{¬1+@ş¡ ²Z Ë1Q‚© ¿8I		XÙ·W“f¦Y™' S¶Ü92bçÀ¿à„Ôú°„Ÿ“ı ª f@¼Œ´ i	†[&òœqŞ“%n§àÍÉàÌè·1PáÏÿŒÉûÍû—"@şe”¾w»oN€GTZ%˜nš;©´Cç…},OIk©¨=œ
-*øã¨‹I;¿Ò–†ÉêîÛÜîÜéı¯eşhÙ$ °
-LÒvf6Ï6Ğñ6ÔU6Úqbñ­ìs‚ó£^{yc[şÚ&·vğç³Y€^$¸'‘ÀZ¥ ØUàsà¿×#üYœ[!°¤%ù·ç	êÓïÉ­O­=±úLês”ëÃOÚ×3ÙÙ‰†ß¾õYp[. ¶
-è% 	0yÄòœÊ)”Ü©I‰ ©7¶4P·5¬î!
-ş†Ù?#@¼Vˆ"gİtmñLòã\¬UgágjçXœÚäìé™ll“ÂÿMø×%
-à g]~}í€¿õ+€ô'×ú#qOqc›üB*ğ/¹ß¹uûë‹6U +uëm9-¿½n»`mO ãyuj“~~c~‡ì¿)@çpöU¿ôŒR$ŸÃë¼¸ ÅÛÔ–ß×Ó#üZJp,’ ¼²‡ˆşìñF¯Ü… §$ğ«÷âÍ9iq«¾ÇŒş%÷ØJPİ>ñF @fú”:hö q?2¦4³[òÛZÀo(@d	ê-Q^€´l’ß`ÏÁ,ç!•’ ğiÛjSíáOĞ¯åMt£}DÜÅ³Ä¯ÔåÇ©¶éT(ÀiºÉ´7Õ_c#,jQá'gıÀğë(Áî_ÿNà—Ñ"Î	ş*`Iˆ0×>ƒ:Çä‚Ö	éş-ïs|øÅàª€\Üà˜¼•"»¹¸ÏHNñÿ&å:îÑ·2˜vÕğë²A€ş%°Á@kèMÁïşK~÷—¯.ú•ÀX–'1OBo~gğ+Øf	´U%àxBè·~ª *ĞB‚"@… Ç=]¶Ç‚ï??û/¹¿ 	0Õ@&BA†{Ñ€?]õŞ‰²~@ø'„“À¸ÈE ƒrÅuàÀ¯eıXğ3Šû@/S
-u`Î•sBÀôV U0àEÀÊ ÄîøÜ{!¿)ü´ìŸ ?3¤‘@Q”"ØËà’ë¦¯ËúPøïğá/
-ĞŸ¶"ô&ƒôUàwÿ¥ Ë?s	î $ ÌÙ‹Qíµ¨Áß§ƒğ*à°`#K5˜ˆp ÈO
-Ô¹NîÁ~ë¬‡¿,Àb(@oÄ#Œ÷1[€şµ ^\l·Èzj»Ó/üKîxKĞƒ=
-‘¹†¨à{Ã?€PâKÀA+ÃqÀ# €şÍì? …Œ–HTP"„8nûİcŞõ°ÀGeıZËãZ ¤‘ªI¦d)Cr¾”û°1ëcáğğ¢7	ìEÊ`%†ö\¨×l~<ø—Üï¬ş¦ÿg#	˜-O !\ãÈz:øÚ–ÇşÅşl€H 8‰À–á¨_à“ĞƒoĞïkàßÈşkZI€'R/1ç¥„ÛîäYp€"€«Õ ÃzTÖo ÿ¦ r	ôã‚("ddˆ,Eé|…÷À|X¿OƒŸ(€¥¨–ÈK‚{‘`?R_«üf-ş¬ Í$èN¢®¹¦6àÿR€/^ğ$X´“@)V9lÎ•{Ïèà{À¿`Á¿ä{§ö‡– leˆ’û|#ø¯+½Û(„æ>@À ?Y€²Öã‚x"ô(âz[€î÷Eğo` A[@p<ŞBà§ïWğåğ³¸’àBƒj ÁXkA,Ï“=|pÖÁÿ€ÿZ [	ğÕ€ Bâ…úƒú½·ÌúBøÅ¨$0i‰D¸Q2H¡ÇƒiyŒáçIàY¸"heèQŠÂu  ÷ Ÿ“õ-àÏJğe	¸c†$!âÃ¾{À¿fôXß—}Ëc ÿ¦ B	Â‰ $„… ÌcŞ1€>øtøáL%ği‰|DP!šóåÜsğq-üP	\Dh(W¯c9A?üU	TÕÀQ¶ÎRxÃ…Ş	|qÖo ?\a5‰€”!’Šó@Ï•õÂŸ— '22¨…@K>—Û8è£€ß~³jĞD„‚&B8Æm<ô6àw’õÛTƒó†ke¨q»GØ©ï	÷; õùf}¬v"`d Ja-çø k–Üo5ø=ÂoZ@"`eŠüõHï-üÅv‚Ï4ÁN”(¾ç¦¹xğö>f\¡{Ú‡ôòvgg›şza›…@Ü—|Ëİ¥p /½?)×¼¯0ğŞèI^"Dp!ŠV×$ƒ~köş•Zùš‰µ    IEND®B`‚
-------MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: https://airtype-ar-app.netlify.app/styles.css
-
-@charset "utf-8";
-
-:root { --bg: #04080d; --surface: rgba(13, 23, 34, 0.78); --surface-2: rgba(20, 34, 48, 0.9); --line: rgba(120, 220, 255, 0.16); --line-strong: rgba(120, 220, 255, 0.36); --cyan: #38e8ff; --cyan-rgb: 56 232 255; --text: #e8f5fb; --muted: #93abba; --warn: #ffc45c; --danger: #ff6b7a; --ok: #5cf2a5; --radius: 18px; --font: system-ui, -apple-system, 'Segoe UI', Roboto, 'Noto Sans', sans-serif; --mono: ui-monospace, 'SFMono-Regular', 'Roboto Mono', Menlo, monospace; --kb-x: 50%; --kb-y: 70%; --kb-w: 94%; --kb-h: 42%; --kb-o: 0.55; --kb-gap: 4px; }
-
-* { box-sizing: border-box; }
-
-html, body { margin: 0px; height: 100%; background: var(--bg); color: var(--text); font-family: var(--font); -webkit-tap-highlight-color: transparent; overflow: hidden; overscroll-behavior: none; }
-
-button, input, select, textarea { font: inherit; color: inherit; }
-
-button { cursor: pointer; }
-
-svg { width: 1em; height: 1em; flex: 0 0 auto; }
-
-[hidden] { display: none !important; }
-
-.app { height: 100dvh; display: grid; grid-template-rows: auto minmax(0px, 1fr) auto; grid-template-areas: "top" "work" "editor"; gap: 8px; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); max-width: 100vw; overflow: hidden; background: radial-gradient(120% 60% at 50% -10%, rgba(56, 232, 255, 0.12), transparent 60%),
-    var(--bg); }
-
-.topbar { grid-area: top; display: flex; align-items: center; gap: 10px; padding: 8px 10px 0px; min-width: 0px; }
-
-.brand { display: flex; align-items: center; gap: 8px; font-weight: 600; letter-spacing: 0.02em; white-space: nowrap; }
-
-.brand img { border-radius: 8px; }
-
-.brand b { color: var(--cyan); font-weight: 700; }
-
-.status { margin-left: auto; display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 999px; background: var(--surface); border: 1px solid var(--line); font-size: 0.8rem; min-width: 0px; white-space: nowrap; overflow: hidden; }
-
-.status__text { overflow: hidden; text-overflow: ellipsis; }
-
-.status__dot { width: 8px; height: 8px; border-radius: 50%; background: var(--muted); flex: 0 0 auto; transition: background 0.2s; }
-
-.status[data-tone="ok"] .status__dot { background: var(--ok); box-shadow: 0 0 10px var(--ok); }
-
-.status[data-tone="active"] .status__dot { background: var(--cyan); box-shadow: 0 0 10px var(--cyan); animation: 1.6s ease 0s infinite normal none running pulse; }
-
-.status[data-tone="warn"] .status__dot { background: var(--warn); }
-
-.status[data-tone="error"] .status__dot { background: var(--danger); }
-
-@keyframes pulse { 
-  50% { opacity: 0.45; }
-}
-
-.icon-btn { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 14px; border: 1px solid var(--line); background: var(--surface); font-size: 20px; flex: 0 0 auto; }
-
-.icon-btn--sm { width: 40px; height: 40px; border-radius: 12px; font-size: 18px; }
-
-.icon-btn:disabled { opacity: 0.4; cursor: default; }
-
-.icon-btn[aria-pressed="true"] { border-color: var(--cyan); color: var(--cyan); }
-
-.icon-btn--danger { color: rgb(255, 179, 187); }
-
-.icon-btn:focus-visible, .btn:focus-visible, .ctl:focus-visible, .key:focus-visible, .segmented button:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
-
-.workspace { grid-area: work; display: flex; flex-direction: column; gap: 8px; min-height: 0px; padding: 0px 10px; }
-
-.stage { position: relative; flex: 1 1 0%; min-height: 0px; border-radius: var(--radius); overflow: hidden; background: rgb(2, 6, 10); border: 1px solid var(--line); touch-action: none; isolation: isolate; }
-
-.stage video { position: absolute; inset: 0px; width: 100%; height: 100%; object-fit: cover; z-index: 0; }
-
-.stage video.is-mirrored { transform: scaleX(-1); }
-
-.stage__grid { position: absolute; inset: 0px; z-index: 0; background-image: linear-gradient(rgba(56, 232, 255, 0.06) 1px, transparent 1px), linear-gradient(90deg, rgba(56, 232, 255, 0.06) 1px, transparent 1px); background-size: 28px 28px; pointer-events: none; }
-
-.stage.has-video .stage__grid { display: none; }
-
-.stage__overlay { position: absolute; inset: 0px; z-index: 3; pointer-events: none; }
-
-.keyboard { position: absolute; z-index: 2; left: var(--kb-x); top: var(--kb-y); width: var(--kb-w); height: var(--kb-h); transform: translate(-50%, -50%); display: flex; flex-direction: column; gap: var(--kb-gap); padding: var(--kb-gap); border-radius: 16px; background: rgb(4 10 16 / calc(var(--kb-o) * 0.35)); border: 1px solid rgb(var(--cyan-rgb) / calc(var(--kb-o) * 0.4)); pointer-events: none; user-select: none; }
-
-.keyboard.is-touch { pointer-events: auto; }
-
-.kb-row { flex: 1 1 0%; display: flex; gap: var(--kb-gap); min-height: 0px; }
-
-.key { position: relative; min-width: 0px; padding: 0px; border-radius: 9px; border: 1px solid rgb(var(--cyan-rgb) / calc(var(--kb-o) * 0.55)); background: rgb(var(--cyan-rgb) / calc(var(--kb-o) * 0.14)); color: rgb(255 255 255 / calc(0.55 + var(--kb-o) * 0.45)); font-size: clamp(0.8rem, 3.6vmin, 1.25rem); font-weight: 600; text-shadow: rgba(0, 0, 0, 0.85) 0px 1px 3px; display: grid; place-items: center; overflow: hidden; transition: background 0.08s, border-color 0.08s, transform 0.08s; touch-action: manipulation; }
-
-.key--shift, .key--caps, .key--backspace, .key--enter, .key--layer, .key--more { font-size: clamp(0.7rem, 3vmin, 1.05rem); color: rgba(200, 240, 255, 0.9); }
-
-.key--space::after { content: ""; width: 40%; height: 3px; border-radius: 2px; background: rgba(255, 255, 255, 0.5); }
-
-.key.is-on { color: var(--cyan); border-color: var(--cyan); }
-
-.key.is-hover { border-color: rgb(var(--cyan-rgb) / 0.95); background: rgb(var(--cyan-rgb) / 0.28); box-shadow: 0 0 0 1px rgb(var(--cyan-rgb) / 0.6), 0 0 18px rgb(var(--cyan-rgb) / 0.45); }
-
-.key.is-target { --p: 0; border-color: rgb(255, 255, 255); background-image: linear-gradient(to top, rgb(var(--cyan-rgb) / 0.7) calc(var(--p) * 100%), transparent calc(var(--p) * 100%)); }
-
-.key.is-goal { outline: 2px dashed var(--warn); outline-offset: -3px; }
-
-.key.is-fired { animation: 0.42s ease-out 0s 1 normal none running fire; }
-
-.key.is-tapped { animation: 0.3s ease-out 0s 1 normal none running tap; }
-
-.key.is-fired::before { content: ""; position: absolute; inset: 0px; border-radius: inherit; border: 2px solid rgb(255, 255, 255); animation: 0.42s ease-out 0s 1 normal forwards running ring; }
-
-@keyframes fire { 
-  0% { background: rgba(255, 255, 255, 0.95); color: rgb(0, 16, 24); transform: scale(1.14); }
-  100% { transform: scale(1); }
-}
-
-@keyframes ring { 
-  0% { transform: scale(1); opacity: 1; }
-  100% { transform: scale(1.7); opacity: 0; }
-}
-
-@keyframes tap { 
-  0% { background: rgba(255, 255, 255, 0.4); transform: scale(0.94); }
-}
-
-.badges { position: absolute; z-index: 4; top: 10px; left: 10px; display: flex; gap: 6px; flex-wrap: wrap; pointer-events: none; max-width: calc(100% - 20px); }
-
-.badge { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; padding: 5px 9px; border-radius: 999px; background: rgba(3, 8, 13, 0.7); border: 1px solid var(--line-strong); color: var(--muted); }
-
-.badge[data-tone="air"] { color: var(--cyan); border-color: var(--cyan); }
-
-.badge[data-tone="touch"] { color: rgb(255, 255, 255); border-color: rgba(255, 255, 255, 0.6); }
-
-.badge--warn { color: var(--warn); border-color: var(--warn); }
-
-.camera-prompt { position: absolute; inset: 0px; z-index: 5; display: grid; place-items: center; padding: 16px; background: radial-gradient(80% 60% at 50% 40%, rgba(10, 30, 44, 0.85), rgba(2, 6, 10, 0.94)); overflow-y: auto; }
-
-.camera-prompt__card { max-width: 380px; text-align: center; display: grid; gap: 10px; justify-items: center; }
-
-.camera-prompt__icon { font-size: 44px; color: var(--cyan); filter: drop-shadow(0 0 12px rgb(var(--cyan-rgb) / 0.6)); }
-
-.camera-prompt h1 { margin: 0px; font-size: clamp(1.35rem, 6vw, 1.8rem); letter-spacing: -0.01em; }
-
-.camera-prompt p { margin: 0px; color: var(--muted); line-height: 1.45; font-size: 0.92rem; }
-
-.camera-prompt p strong { color: var(--text); }
-
-.camera-prompt__error { background: rgba(255, 107, 122, 0.12); border: 1px solid rgba(255, 107, 122, 0.4); border-radius: 12px; padding: 10px 12px; text-align: left; color: rgb(255, 210, 215) !important; }
-
-.fine { font-size: 0.78rem !important; color: var(--muted); }
-
-.calib { position: absolute; z-index: 6; top: 10px; left: 10px; right: 10px; padding: 12px 14px; border-radius: 16px; background: rgba(6, 14, 22, 0.86); border: 1px solid var(--line-strong); backdrop-filter: blur(6px); max-width: 460px; margin: 0px auto; }
-
-.calib__head { display: flex; justify-content: space-between; align-items: center; }
-
-.calib__step { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--cyan); font-weight: 700; }
-
-.calib h2 { margin: 2px 0px 4px; font-size: 1.05rem; }
-
-.calib p { margin: 0px; font-size: 0.86rem; color: var(--muted); line-height: 1.4; }
-
-.calib__bar { --p: 0; height: 6px; margin: 10px 0px 6px; border-radius: 3px; background: rgba(255, 255, 255, 0.08); overflow: hidden; }
-
-.calib__bar span { display: block; height: 100%; width: calc(var(--p) * 100%); background: var(--cyan); box-shadow: 0 0 10px var(--cyan); transition: width 0.1s linear; }
-
-.calib__extra { min-height: 1.2em; color: var(--text) !important; }
-
-.calib__actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 8px; }
-
-.debug { position: absolute; z-index: 6; left: 8px; bottom: 8px; margin: 0px; padding: 6px 8px; font: 11px/1.35 var(--mono); color: rgb(200, 246, 255); background: rgba(0, 0, 0, 0.62); border-radius: 8px; pointer-events: none; max-width: calc(100% - 16px); white-space: pre-wrap; }
-
-.toast { position: absolute; z-index: 7; left: 50%; bottom: 14px; transform: translate(-50%, 20px); opacity: 0; padding: 9px 14px; border-radius: 12px; background: var(--surface-2); border: 1px solid var(--line-strong); font-size: 0.85rem; transition: opacity 0.2s, transform 0.2s; pointer-events: none; max-width: calc(100% - 24px); text-align: center; }
-
-.toast.is-shown { opacity: 1; transform: translate(-50%, 0px); }
-
-.controls { display: grid; grid-template-columns: repeat(5, minmax(0px, 1fr)) auto; gap: 6px; align-items: stretch; }
-
-.ctl { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; min-height: 54px; min-width: 0px; padding: 6px 2px; border-radius: 14px; border: 1px solid var(--line); background: var(--surface); font-size: 20px; }
-
-.ctl span { font-size: 0.68rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 100%; }
-
-.ctl:disabled { opacity: 0.38; cursor: default; }
-
-.ctl[aria-pressed="true"] { border-color: var(--cyan); color: var(--cyan); }
-
-.ctl[aria-pressed="true"] span { color: var(--cyan); }
-
-.ctl--accent:not(:disabled) { background: linear-gradient(rgba(56, 232, 255, 0.2), rgba(56, 232, 255, 0.06)); border-color: rgb(var(--cyan-rgb) / 0.5); }
-
-.ctl--accent[aria-pressed="true"] { background: rgba(56, 232, 255, 0.3); color: rgb(255, 255, 255); }
-
-.ctl--accent[aria-pressed="true"] span { color: rgb(255, 255, 255); }
-
-.segmented { display: grid; grid-template-rows: 1fr 1fr; border-radius: 14px; border: 1px solid var(--line); background: var(--surface); padding: 3px; gap: 3px; min-width: 62px; }
-
-.segmented button { border: 0px; border-radius: 10px; background: transparent; font-size: 0.74rem; font-weight: 600; color: var(--muted); padding: 0px 8px; }
-
-.segmented button[aria-checked="true"] { background: rgba(56, 232, 255, 0.2); color: var(--cyan); }
-
-#modeTouch[aria-checked="true"] { background: rgba(255, 255, 255, 0.16); color: rgb(255, 255, 255); }
-
-.editor { grid-area: editor; display: flex; flex-direction: column; margin: 0px 10px 10px; padding: 8px 10px; height: clamp(150px, 27dvh, 260px); border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); min-width: 0px; }
-
-.editor__bar { display: flex; align-items: center; justify-content: space-between; gap: 6px; }
-
-.editor__tools { display: flex; gap: 4px; }
-
-.counter { font-size: 0.75rem; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
-
-.editor textarea { flex: 1 1 0%; min-height: 0px; margin-top: 6px; width: 100%; resize: none; border: 1px solid transparent; border-radius: 12px; background: rgba(0, 0, 0, 0.28); padding: 10px 12px; font-size: 16px; line-height: 1.45; outline: none; caret-color: var(--cyan); white-space: pre-wrap; overflow-wrap: anywhere; }
-
-.editor textarea:focus { border-color: var(--line-strong); }
-
-.editor__foot { display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--muted); padding-top: 4px; font-variant-numeric: tabular-nums; }
-
-#lastKey { color: var(--cyan); }
-
-.btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 46px; padding: 0px 20px; border-radius: 14px; border: 1px solid var(--line-strong); background: var(--surface-2); font-weight: 600; font-size: 0.95rem; }
-
-.btn svg { font-size: 1.15em; }
-
-.btn--primary { background: linear-gradient(rgb(79, 240, 255), rgb(25, 188, 216)); color: rgb(0, 20, 28); border-color: transparent; box-shadow: rgba(56, 232, 255, 0.3) 0px 6px 24px; }
-
-.btn--ghost { background: transparent; }
-
-.btn--danger { background: rgba(255, 107, 122, 0.18); border-color: rgba(255, 107, 122, 0.6); color: rgb(255, 210, 215); }
-
-.btn--small { min-height: 40px; padding: 0px 14px; font-size: 0.85rem; }
-
-.sheet { border: 1px solid var(--line-strong); border-radius: 22px 22px 0px 0px; padding: 0px; margin: auto 0px 0px; width: 100%; max-width: 100%; max-height: 88dvh; background: rgb(8, 17, 26); color: var(--text); }
-
-.sheet::backdrop { background: rgba(0, 4, 8, 0.66); backdrop-filter: blur(2px); }
-
-.sheet--center { margin: auto; border-radius: 22px; width: min(440px, 100% - 24px); }
-
-@media (min-width: 640px) {
-  .sheet { margin: auto; border-radius: 22px; width: min(560px, 100% - 32px); }
-}
-
-.sheet__inner { padding: 16px 16px calc(16px + env(safe-area-inset-bottom)); display: grid; gap: 14px; }
-
-.sheet__head { display: flex; justify-content: space-between; align-items: center; position: sticky; top: -16px; background: rgb(8, 17, 26); padding-top: 4px; z-index: 1; }
-
-.sheet h2 { margin: 0px; font-size: 1.15rem; }
-
-fieldset { border: 1px solid var(--line); border-radius: 16px; padding: 10px 14px 14px; margin: 0px; display: grid; gap: 12px; min-width: 0px; }
-
-legend { padding: 0px 6px; font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--cyan); font-weight: 700; }
-
-.field { display: grid; gap: 6px; font-size: 0.88rem; }
-
-.field > span { display: flex; justify-content: space-between; gap: 8px; }
-
-.field output { color: var(--cyan); font-variant-numeric: tabular-nums; }
-
-.field select { min-height: 44px; border-radius: 12px; border: 1px solid var(--line-strong); background: var(--surface-2); padding: 0px 10px; max-width: 100%; }
-
-input[type="range"] { width: 100%; accent-color: var(--cyan); min-height: 32px; }
-
-.switch { display: flex; align-items: center; gap: 12px; font-size: 0.9rem; min-height: 36px; }
-
-.switch input { width: 22px; height: 22px; accent-color: var(--cyan); flex: 0 0 auto; }
-
-.switch small { color: var(--muted); }
-
-.hint { margin: 0px; font-size: 0.8rem; color: var(--muted); line-height: 1.4; }
-
-.row-btns { display: flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
-
-.confirm p { margin: 0px; color: var(--muted); }
-
-.onboarding { gap: 16px; }
-
-.onboarding__dots { display: flex; gap: 6px; justify-content: center; }
-
-.onboarding__dots span { width: 7px; height: 7px; border-radius: 50%; background: rgba(255, 255, 255, 0.2); }
-
-.onboarding__dots span.is-on { background: var(--cyan); width: 20px; border-radius: 4px; }
-
-.slide h2 { margin: 0px 0px 8px; }
-
-.slide p { margin: 0px 0px 8px; color: var(--muted); line-height: 1.5; }
-
-.slide p b { color: var(--text); }
-
-.slide::before { content: ""; display: block; height: 92px; margin-bottom: 12px; border-radius: 14px; border: 1px solid var(--line); background: radial-gradient(circle at 50% 42%, rgb(var(--cyan-rgb) / 0.9) 0 7px, transparent 8px),
-    radial-gradient(circle at 50% 42%, transparent 0 17px, rgb(var(--cyan-rgb) / 0.6) 18px 20px, transparent 21px),
-    repeating-linear-gradient(90deg, rgb(var(--cyan-rgb) / 0.22) 0 22px, transparent 22px 27px) 50% 78% / 80% 16px no-repeat,
-    linear-gradient(180deg, #0b1a26, #050b11); }
-
-.onboarding__actions { display: flex; justify-content: space-between; }
-
-.noscript { position: fixed; inset: auto 0px 0px; padding: 16px; background: rgb(51, 0, 0); text-align: center; }
-
-@media (orientation: landscape) and (max-height: 600px) {
-  .app { grid-template: "top top" "work editor" minmax(0px, 1fr) / minmax(0px, 1fr) minmax(220px, 34%); }
-  .topbar { padding-top: 6px; }
-  .workspace { padding-right: 0px; flex-direction: row; }
-  .controls { grid-template-columns: 1fr; grid-auto-rows: minmax(0px, 1fr); width: 70px; }
-  .ctl { min-height: 0px; }
-  .segmented { grid-template-rows: 1fr 1fr; min-width: 0px; }
-  .editor { height: auto; margin: 0px 10px 10px 0px; }
-  .status { font-size: 0.72rem; }
-}
-
-@media (max-width: 360px) {
-  .brand span { display: none; }
-  .ctl span { font-size: 0.6rem; }
-  .controls { gap: 4px; }
-  .workspace { padding: 0px 6px; }
-  .editor { margin: 0px 6px 6px; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  *, ::before, ::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
-}
-------MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f----
-Content-Type: text/html
-Content-ID: <frame-DF81DAD7C9C8529B37449CACF416BEEE@mhtml.blink>
-Content-Transfer-Encoding: binary
-
-<!DOCTYPE html><html class="nl-narrow" style="--nl-vw: 0px; --nl-vh: 0px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-69190988-9d0e-45b8-a58a-357075a62522@mhtml.blink" /><meta name="color-scheme" content="dark"></head><body>
-      <div class="nl-wrap">
-        <section class="nl-card" id="nl-card" aria-label="Build your own site on Netlify">
-          <button type="button" class="nl-icon-btn nl-tap nl-card-close" id="nl-card-close" aria-label="Close"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4.5 4.5 11.5 11.5M11.5 4.5 4.5 11.5"></path></svg></button>
-          <h2><em>Build your own site with Netlify</em></h2>
-          <p>Describe what you want, and an AI agent designs, builds and deploys it in minutes.</p>
-          <form class="nl-prompt" action="https://app.netlify.com/start" method="get" target="_blank" rel="noopener">
-            <textarea name="prompt" rows="2" required="" maxlength="300" autocomplete="off" enterkeyhint="go" placeholder="A shop for my handmade surfboardsâ€¦" aria-label="Describe the site you want to build"></textarea>
-            <button type="submit" class="nl-send nl-tap" aria-label="Build this site"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 12.75v-9.5M3.9 7.35 8 3.25l4.1 4.1"></path></svg></button>
-            
-            
-            
-            
-            
-            
-          </form>
-          <div class="nl-or"><span>or</span></div>
-          <a class="nl-drop" href="https://app.netlify.com/drop?utm_source=netlify_badge&amp;utm_campaign=loops&amp;utm_medium=owned&amp;utm_content=drop&amp;utm_id=0794c1fe-9bbc-47e2-99f6-b19243607d6b" target="_blank" rel="noopener">
-            <span>Drop a site you already have</span><span class="nl-arrow" aria-hidden="true">â†’</span>
-          </a>
-          <button type="button" class="nl-hide" id="nl-hide">Hide this badge</button>
-        </section>
-        <button type="button" class="nl-badge" id="nl-badge" aria-expanded="false" aria-controls="nl-card" aria-label="Powered by Netlify â€” build your own site">
-          <svg width="18" height="18" viewBox="0 0 32 32" fill="none" aria-hidden="true">
-    <path fill="#fff" d="M17.9922 18.3225H14.005L13.6746 17.9921V14.005L14.005 13.6746H17.9922L18.3226 14.005V17.9921L17.9922 18.3225Z"></path>
-    <g fill="#05BDBA">
-      <path d="M9.6958 24.3311H9.35705L7.6661 22.6401V22.3041L10.2511 19.7164L12.042 19.7191L12.2808 19.9552V21.7461L9.6958 24.3311Z"></path>
-      <path d="M7.6661 9.69576V9.35701L9.35705 7.66606H9.6958L12.2808 10.2511V12.0392L12.042 12.2808H10.2511L7.6661 9.69576Z"></path>
-      <path d="M10.0457 17.4369H0.205466L0 17.2314V14.7658L0.205466 14.5603H10.0457L10.2511 14.7658V17.2314L10.0457 17.4369Z"></path>
-      <path d="M31.7945 17.4369H21.9544L21.7489 17.2314V14.7658L21.9544 14.5603H31.7945L32 14.7658V17.2314L31.7945 17.4369Z"></path>
-      <path d="M14.5631 10.0456V2.66547L14.7686 2.46001H17.2343L17.4396 2.66547V10.0456L17.2343 10.2511H14.7686L14.5631 10.0456Z"></path>
-      <path d="M14.5631 29.3316V21.9515L14.7686 21.746H17.2343L17.4396 21.9515V29.3316L17.2343 29.5371H14.7686L14.5631 29.3316Z"></path>
-    </g></svg>
-          <span><span class="nl-badge-label">Powered by</span> <span class="nl-badge-brand">Netlify</span></span>
-        </button>
-      </div>
-      
-    </body></html>
-------MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: cid:css-69190988-9d0e-45b8-a58a-357075a62522@mhtml.blink
-
-@charset "utf-8";
-
-:root { --nl-vw: 0px; --nl-vh: 0px; }
-
-* { box-sizing: border-box; }
-
-html, body { margin: 0px; padding: 0px; background: transparent; overflow: hidden; }
-
-body { display: flex; align-items: flex-end; justify-content: flex-end; height: 100vh; padding: 8px 18px 18px 8px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: rgb(244, 249, 249); -webkit-font-smoothing: antialiased; }
-
-.nl-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; width: max-content; max-width: calc(var(--nl-vw,100vw) - 26px); }
-
-button { font-family: inherit; cursor: pointer; }
-
-:focus-visible { outline: rgb(50, 230, 226) solid 2px; outline-offset: 2px; border-radius: 6px; }
-
-.nl-icon-btn { position: relative; flex: 0 0 auto; width: 30px; height: 30px; display: inline-flex; align-items: center; justify-content: center; border-radius: 8px; border: 1px solid transparent; background: transparent; color: rgb(213, 227, 230); transition: background 0.15s, color 0.15s; }
-
-.nl-icon-btn:hover { background: rgba(255, 255, 255, 0.08); color: rgb(244, 249, 249); }
-
-.nl-tap::after { content: ""; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: max(100%, 44px); height: max(100%, 44px); }
-
-@keyframes nl-rise { 
-  0% { opacity: 0; transform: translateY(10px) scale(0.97); }
-  100% { opacity: 1; transform: none; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  * { animation-duration: 0.01ms !important; transition: none !important; }
-}
-
-.nl-card { position: relative; display: none; width: min(340px,calc(var(--nl-vw,100vw) - 26px)); max-height: calc(var(--nl-vh,100vh) - 84px); overflow-y: auto; background: linear-gradient(rgb(19, 40, 50) 0%, rgb(14, 30, 37) 100%); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 18px; padding: 18px; transform-origin: right bottom; animation: 0.3s cubic-bezier(0.34, 1.4, 0.4, 1) 0s 1 normal both running nl-rise; }
-
-.nl-card.open { display: block; }
-
-.nl-card-close { position: absolute; top: 10px; right: 10px; }
-
-.nl-card h2 { margin: 0px; padding-right: 30px; font-size: 16px; font-weight: 750; letter-spacing: -0.015em; line-height: 1.35; }
-
-.nl-card h2 em { font-style: normal; background: linear-gradient(90deg, rgb(50, 230, 226), rgb(77, 124, 254), rgb(154, 107, 255)) text; -webkit-text-fill-color: transparent; color: transparent; }
-
-.nl-card p { margin: 8px 0px 0px; font-size: 12.5px; color: rgb(213, 227, 230); }
-
-.nl-prompt { position: relative; margin-top: 14px; background: rgb(16, 34, 43); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 14px; padding: 10px 12px; transition: border-color 0.15s, box-shadow 0.15s; }
-
-.nl-prompt:focus-within { border-color: rgb(5, 189, 186); box-shadow: rgba(5, 189, 186, 0.18) 0px 0px 0px 3px; }
-
-.nl-prompt textarea { display: block; width: 100%; height: 38px; resize: none; border: 0px; outline: none; background: transparent; color: rgb(244, 249, 249); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 13px; line-height: 19px; padding: 0px 28px 0px 0px; }
-
-.nl-prompt textarea::placeholder { color: rgb(169, 189, 194); }
-
-.nl-send { position: absolute; right: 9px; bottom: 9px; width: 24px; height: 24px; flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; border: 0px; border-radius: 50%; background: rgb(5, 189, 186); color: rgb(2, 25, 27); transition: background 0.15s; }
-
-.nl-send:hover { background: rgb(50, 230, 226); }
-
-@media (pointer: coarse) {
-  .nl-prompt textarea { font-size: 16px; line-height: 21px; height: 42px; }
-}
-
-.nl-or { display: flex; align-items: center; gap: 10px; margin: 12px 0px; font-size: 10.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgb(169, 189, 194); }
-
-.nl-or::before, .nl-or::after { content: ""; flex: 1 1 0%; height: 1px; background: rgba(255, 255, 255, 0.09); }
-
-.nl-drop { display: flex; align-items: center; justify-content: space-between; gap: 6px; text-decoration: none; background: rgb(27, 58, 69); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 10px; padding: 10px 12px; font-size: 13px; font-weight: 600; color: rgb(207, 224, 227); transition: background 0.15s, color 0.15s, border-color 0.15s; }
-
-.nl-drop:hover { background: rgb(34, 71, 83); color: rgb(244, 249, 249); border-color: rgba(50, 230, 226, 0.3); }
-
-.nl-drop .nl-arrow { transition: transform 0.18s cubic-bezier(0.34, 1.4, 0.4, 1); }
-
-.nl-drop:hover .nl-arrow { transform: translateX(3px); }
-
-.nl-badge { display: flex; align-items: center; gap: 9px; white-space: nowrap; border: 1px solid rgba(255, 255, 255, 0.09); background: linear-gradient(rgb(20, 43, 52), rgb(14, 30, 37)); color: rgb(244, 249, 249); border-radius: 999px; padding: 9px 14px 9px 11px; font-size: 13px; font-weight: 600; letter-spacing: 0.01em; transition: border-color 0.2s; }
-
-.nl-badge:hover { border-color: rgba(50, 230, 226, 0.26); }
-
-.nl-hide { display: block; width: 100%; margin-top: 10px; border: 0px; background: transparent; color: rgb(169, 189, 194); font-size: 11.5px; font-weight: 600; padding: 4px; border-radius: 8px; transition: color 0.15s; }
-
-.nl-hide:hover { color: rgb(213, 227, 230); text-decoration: underline; }
-
-.nl-badge-label { color: rgb(213, 227, 230); font-weight: 500; }
-
-.nl-badge-brand { font-weight: 750; }
-------MultipartBoundary--OtaYtULTvE2eyHfixi5RRO02Xx7cFApRTw8A713M7f------
